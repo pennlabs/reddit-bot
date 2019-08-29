@@ -1,0 +1,15 @@
+reddit_auth:
+  client_id: blah
+  client_secret: blash2
+  username: Pwpon500
+  password: mypass
+
+subreddits:
+  - bottesting
+
+trigger_words:
+  - penn labs
+  - pennlabs
+
+slack_token: your_slack_workspace_token
+slack_channel: reddit-test
