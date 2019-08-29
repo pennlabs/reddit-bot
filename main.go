@@ -51,7 +51,7 @@ func main() {
 	}
 
 	botConf := reddit.BotConfig{
-		Agent: "linux:labs-bot:" + version + "by /u/Pwpon500",
+		Agent: "linux:labs-bot:" + version + " by /u/Pwpon500",
 		App: reddit.App{
 			ID:       conf.RedditAuth.ClientID,
 			Secret:   conf.RedditAuth.ClientSecret,
